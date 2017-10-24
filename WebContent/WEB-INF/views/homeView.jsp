@@ -22,7 +22,7 @@
          <li>Create Product</li>
          <li>Edit Product</li>
          <li>Delete Product</li>
-         <li><strong style="color: red;">TEST for code changes</strong></li>
+         <li><strong style="color: blue;">TEST for code changes</strong></li>
       </ul>
  
      <jsp:include page="_footer.jsp"></jsp:include>
